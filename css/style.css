@@ -372,11 +372,14 @@ section.sec1.res {
     background: none;
     color: #005182;
     border: 1px solid #005182;
+        transition: all .3s ease-in;
 }
 button.hBtn:hover {
     background: none;
     border: 2px solid #bdd73c;
+        transition: all .3s ease-in;
 }
 button.back:hover {
     background: #000000;
+        transition: all .3s ease-in;
 }
